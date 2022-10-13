@@ -1,8 +1,5 @@
 In this practical, hands-on course, learn how to do data preparation, data munging, data visualization, and predictive analytics. 
-PHP is the most popular server-side language used to build dynamic websites, and though it is not especially difficult to use, nonprogrammers often find it intimidating. 
-Due to its power and simplicity, Python has become the scripting language of choice for many large organizations, including Google, Yahoo, and IBM.
-Are you new to cloud computing? If so, this course can help you bolster your cloud computing skillset by familiarizing you with the business and tech-related basics of creating a cloud architecture. 
-Many of the people who work on data science teams won't be data scientists. They'll be the managers and associates who want to gain real business value from your organization's data.
+PHP
 Node.js is a platform built on the Chrome JavaScript runtime that can help you build fast, scalable network applications. 
 All data science begins with good data. Data mining is a framework for collecting, searching, and filtering raw data in a systematic matter, ensuring you have clean data from the start.
 If you're going to work with big data, you'll probably be using R or Python. And if you're using Python, you'll be definitely using Pandas and NumPy, the third-party packages designed specifically for data analysis.
